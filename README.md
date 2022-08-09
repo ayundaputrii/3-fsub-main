@@ -27,7 +27,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 ## <p align="center">DEPLOY TO WEB HEROKU</p>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/supermanbot12/3-fsub-Button">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ayundaputrii/3-fsub-main">
   <img src="https://img.shields.io/badge/Deploy%20To%20Web-cyan?style=flat&logo=heroku" width="220" height="38.45" /></a></p>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
